@@ -25,10 +25,9 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 }
 ```
 
-## Screenshots
-
-![Material Solarized Theme]()
-![Material Solarized Theme]()
+<!-- ## Screenshots -->
+<!-- ![Material Solarized Theme]() -->
+<!-- ![Material Solarized Theme]() -->
 
 ## Contributing
 
