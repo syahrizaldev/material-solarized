@@ -11,7 +11,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 1. Open the **Extensions** sidebar on Visual Studio Code.
 2. Search for **Material Solarized Theme**.
 3. Click **Install** to start the installation process.
-4. Preferences > Theme > Color Theme > Material Solarized Theme
+4. Preferences > Theme > Color Theme > **Material Solarized Theme**
 
 ## Optional Setting
 
@@ -25,9 +25,10 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 }
 ```
 
-<!-- ## Screenshots -->
-<!-- ![Material Solarized Theme]() -->
-<!-- ![Material Solarized Theme]() -->
+## Screenshots -->
+
+![Material Solarized Theme](./assets/example-1.png)<br>
+![Material Solarized Theme](./assets/example-2.png)
 
 ## Contributing
 
