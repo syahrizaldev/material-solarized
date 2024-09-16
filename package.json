@@ -10,14 +10,14 @@
       "name": "Syahrizal"
    },
    "engines": {
-      "vscode": "^1.20.0"
+      "vscode": "^1.17.0"
    },
    "categories": [
       "Themes"
    ],
    "galleryBanner": {
       "theme": "dark",
-      "color": ""
+      "color": "#142024"
    },
    "keywords": [
       "theme",
@@ -25,8 +25,7 @@
       "material",
       "dark-theme",
       "color-theme",
-      "vscode-theme",
-      "material-theme"
+      "vscode-theme"
    ],
    "contributes": {
       "themes": [
@@ -45,4 +44,3 @@
       "url": "https://github.com/syahrizaldev/material-solarized/issues"
    }
 }
-
