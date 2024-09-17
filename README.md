@@ -25,7 +25,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 }
 ```
 
-## Screenshots -->
+## Screenshots
 
 ![Material Solarized Theme](./assets/example-1.png)<br>
 ![Material Solarized Theme](./assets/example-2.png)
