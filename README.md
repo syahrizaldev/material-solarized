@@ -27,8 +27,8 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 
 ## Screenshots
 
-![Material Solarized Theme](./assets/example-1.png)<br>
-![Material Solarized Theme](./assets/example-2.png)
+![Material Solarized Theme](./assets/screenshot-1.png)<br>
+![Material Solarized Theme](./assets/screenshot-2.png)
 
 ## Contributing
 
@@ -40,4 +40,3 @@ Thank you for the contributions and have a nice day.
 ## License
 
 [MIT License](./license)
-
