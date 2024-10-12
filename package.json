@@ -4,13 +4,13 @@
    "description": "Clean and minimalist material-inspired dark vscode theme.",
    "license": "MIT",
    "icon": "assets/logo.png",
-   "version": "1.2.0",
+   "version": "1.0.0",
    "publisher": "syahrizaldev",
    "author": {
       "name": "Syahrizal"
    },
    "engines": {
-      "vscode": "^1.17.0"
+      "vscode": "^1.15.0"
    },
    "categories": [
       "Themes"
