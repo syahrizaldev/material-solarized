@@ -1,6 +1,6 @@
 {
-   "name": "material-solarized-theme",
-   "displayName": "Material Solarized Theme",
+   "name": "material-solarized",
+   "displayName": "Material Solarized",
    "description": "Clean and minimalist material-inspired dark vscode theme.",
    "license": "MIT",
    "icon": "assets/logo.png",
@@ -31,7 +31,7 @@
       "themes": [
          {
             "uiTheme": "vs-dark",
-            "label": "Material Solarized Theme",
+            "label": "Material Solarized",
             "path": "./theme/material-solarized.json"
          }
       ]
