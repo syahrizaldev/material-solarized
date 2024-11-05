@@ -1,9 +1,9 @@
 {
    "name": "material-solarized",
+   "icon": "assets/logo.png",
    "displayName": "Material Solarized",
    "description": "Clean and minimalist material-inspired dark vscode theme.",
    "license": "MIT",
-   "icon": "assets/logo.png",
    "version": "1.0.0",
    "publisher": "syahrizaldev",
    "author": {
