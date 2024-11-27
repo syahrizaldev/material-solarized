@@ -32,7 +32,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 
 ## Contributing
 
-**Material Solarized** themes are currently under development and improvement.
+**Material Solarized** theme is currently under development and improvement.
 If you find any problem or have a future request, please open an
 [**issue here**](https://github.com/syahrizaldev/material-solarized/issues).
 Thank you for the contributions and have a nice day.
