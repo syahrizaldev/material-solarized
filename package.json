@@ -1,23 +1,19 @@
 {
    "name": "material-solarized",
-   "icon": "assets/logo.png",
    "displayName": "Material Solarized",
-   "description": "Clean and minimalist material-inspired dark vscode theme.",
-   "license": "MIT",
-   "version": "1.0.0",
+   "description": "Clean and minimalist material-inspired vscode dark theme.",
    "publisher": "syahrizaldev",
-   "author": {
-      "name": "Syahrizal"
-   },
+   "icon": "assets/logo.png",
+   "version": "1.1.0",
+   "license": "MIT",
    "engines": {
       "vscode": "^1.15.0"
    },
    "categories": [
       "Themes"
    ],
-   "galleryBanner": {
-      "theme": "dark",
-      "color": "#121d21"
+   "author": {
+      "name": "Syahrizal"
    },
    "keywords": [
       "theme",
@@ -25,8 +21,13 @@
       "material",
       "dark-theme",
       "color-theme",
-      "vscode-theme"
+      "vscode-theme",
+      "material-theme"
    ],
+   "galleryBanner": {
+      "theme": "dark",
+      "color": "#121d21"
+   },
    "contributes": {
       "themes": [
          {
@@ -42,6 +43,6 @@
    },
    "bugs": {
       "url": "https://github.com/syahrizaldev/material-solarized/issues"
-   }
+   },
+   "homepage": "https://github.com/syahrizaldev/material-solarized#readme"
 }
-
