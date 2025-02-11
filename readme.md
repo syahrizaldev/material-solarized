@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/logo.png" width="118" height="118">
+    <img src="./assets/logo.png" width="120" height="120">
     <h1 align="center">Material Solarized</h1>
 </p>
 
