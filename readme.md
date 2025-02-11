@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="./assets/logo.png" width="120" height="120">
+    <img src="./assets/logo.png" width="118" height="118">
     <h1 align="center">Material Solarized</h1>
 </p>
 
-Clean and minimalist material-inspired dark theme for Visual Studio Code.
-Remove the unnecessary borders and improve the syntax highlighting colors.
+Minimalist and clean material-inspired dark theme for Visual Studio Code.
+Remove the unnecessary border and improve the syntax highlighting colors.
 
 ## Installation
 
@@ -19,8 +19,9 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 {
    "editor.fontSize": 16,
    "editor.lineHeight": 25,
-   "editor.letterSpacing": 0.5,
+   "editor.letterSpacing": 0.25,
    "editor.fontFamily": "JetBrains Mono",
+   "editor.fontWeight": "normal",
    "editor.guides.bracketPairs": "active",
    "editor.bracketPairColorization.enabled": true
 }
@@ -36,7 +37,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 **Material Solarized** theme is currently under development and improvement.
 If you find any problem or have a future request, please open an
 [**issue here**](https://github.com/syahrizaldev/material-solarized/issues).
-Thank you for the contributions and have a nice day.
+Thanks for the contributions and have a nice day.
 
 ## License
 
