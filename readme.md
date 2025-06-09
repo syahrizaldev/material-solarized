@@ -29,9 +29,9 @@ Remove the unnecessary borders and enhance the syntax highlighting colors.
 
 ## Screenshots
 
-![Material Solarized Theme](./assets/)<br><br>
-![Material Solarized Theme](./assets/)<br><br>
-![Material Solarized Theme](./assets/)
+![Material Solarized Theme](./assets/screenshot-1.png)<br><br>
+![Material Solarized Theme](./assets/screenshot-2.png)<br><br>
+![Material Solarized Theme](./assets/screenshot-3.png)
 
 ## Contributing
 
